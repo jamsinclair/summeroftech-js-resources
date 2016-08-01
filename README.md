@@ -38,3 +38,7 @@ A great up to date curated list of links for learning and discovering new aspect
 ## ReactJS
 
 - todo
+
+## Other
+
+More links for demos and things you can build in JavaScript are available here https://github.com/sehsarah/for-the-fun-of-javascript
