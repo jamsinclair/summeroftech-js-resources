@@ -1,6 +1,8 @@
-# JS Resources for Summer of Tech People
+# JS Resources for Summer of Tech Peeps
 
 Hopefully here you find helpful and relevant resources to upskill you quickly in the world of JavaScript. I will note, take care before paying for any learning resources, some of them are not worth the money and are just looking to profit. The wonderful open world of the web offers a ton of free learning resources to help all of us advance :smile_cat:
+
+Also, totally tweet <a href="https://twitter.com/jamsinclair" target="_blank">@jamsinclair</a> or <a href="https://twitter.com/sehsarah" target="_blank">@sehsarah</a> with any questions that are not answered here :dancer:
 
 ## Basic JS Tutorials
 
