@@ -4,6 +4,8 @@ Hopefully here you find helpful and relevant resources to upskill you quickly in
 
 Also, totally tweet <a href="https://twitter.com/jamsinclair" target="_blank">@jamsinclair</a> or <a href="https://twitter.com/sehsarah" target="_blank">@sehsarah</a> with any questions that are not answered here :dancer:
 
+![screenshot 2016-08-04 16 02 53](https://cloud.githubusercontent.com/assets/1064684/17389993/f759831e-5a5c-11e6-93ba-ebdc24538c9f.png)
+
 ## Basic JS Tutorials
 
 Great basic introductions for someone new to JavaScript and/or Programming in general.
